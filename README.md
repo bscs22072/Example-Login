@@ -2,8 +2,9 @@
 
 **Assistu** is an intelligent voice-enabled student assistant server built with Django and MongoDB. This is the backend API server that powers the Assistu application, providing RESTful endpoints for task management, note-taking, event scheduling, study planning, and more.
 
+
 > [!NOTE]
-> Access the web app user manual via this [User Manual](https://github.com/bscs22072/BSCS22072-Semester-Project/blob/main/public/AssistU-User-Manual.pdf).
+> Access the web app user manual via this [User Manual](https://github.com/BazilSuhail/Assistu-Client/blob/main/public/AssistU-User-Manual.pdf).
 
 > **Client Repository**: Access the Client `web-application` of this server via [Assistu-Client](https://github.com/BazilSuhail/Assistu-Client)
 
